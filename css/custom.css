@@ -1,3 +1,9 @@
 .iconimg{
     height: 70px;
 }
+.redtext{
+    color: #db1914;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0.04em;
+}
