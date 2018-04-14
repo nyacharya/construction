@@ -329,7 +329,7 @@ header {
 /* 3. Common Styles */
 
 .page_head {
-	background: url(../images/head/1.jpeg) no-repeat center top;
+	background: black no-repeat center top;
 	background-size: cover;
 	padding: 256px 0px 107px;
 }
